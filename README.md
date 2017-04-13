@@ -1,2 +1,6 @@
 # test
 readme
+
+
+
+pierwszy commmit
